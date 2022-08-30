@@ -35,6 +35,6 @@ A fresh graduate in statistics with broad range of technical skills and experien
 </details>
     <p align=center>
   <a href="#" title="Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&show_icons=true&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=isaacdha&show_icons=true&theme=gotham">
   </a>
 </p>
