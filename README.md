@@ -6,7 +6,7 @@
 
 <p align=justify> </>
 
-**Highly Interested in**
+**Interest**
   - 📝 Mathematical and Statistical research 
   - 📊 Data Analysis and Statistical based reports
 
@@ -25,7 +25,7 @@
 
 <p align=justify> </>
   
-**Reach me out through**
+**Reach Me On**
 <p align=center>
   <a href="mailto:isaacazziz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
   <a href="https://www.linkedin.com/in/isaacdha/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -36,7 +36,7 @@
 <details>
  <summary><strong>In Progress</strong></summary>
    - 📊 I’m currently learning PowerBI. </br>
-   - 🧐 I'm currentlu active in scholarship and internship hunting. </br> 
+   - 🧐 I'm currently active in scholarship and internship hunting. </br> 
    
 </details>
     <p align=center>
