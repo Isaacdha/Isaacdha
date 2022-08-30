@@ -2,13 +2,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=isaacdha.isaacdha)
 
-A fresh graduate in statistics with broad range of technical skills and experience, including experience with Python, R, SPSS, SQL, EViews, Tableau, Power BI, Google Data Studio, and Microsoft Excel. Individual with excellent time management, strong determination, curious mindset, and always eager to learn new things. 
-  
-  
+<p align=justify> A fresh graduate in statistics with broad range of technical skills and experience, including experience with Python, R, SPSS, SQL, EViews, Tableau, Power BI, Google Data Studio, and Microsoft Excel. Individual with excellent time management, strong determination, curious mindset, and always eager to learn new things.  </>
+
+<p align=justify> </>
+
 **Highly Interested in**
   - 📝 Mathematical and Statistical research 
   - 📊 Data Analysis and Statistical based reports
-  
+
+<p align=justify> </>
   
 **Tools**
 <p align=center>
@@ -21,7 +23,7 @@ A fresh graduate in statistics with broad range of technical skills and experien
   <a href="" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
 </p>
 
-  
+<p align=justify> </>
   
 **Reach me out through**
 <p align=center>
