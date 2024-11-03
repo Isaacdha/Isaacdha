@@ -1,4 +1,4 @@
-## <p align=center> Hi there! I'm Isaac Azziz <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
+## <p align=center> Hi there! I'm Isaac Dwadattusyah Haikal Azziz <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=isaacdha.isaacdha)
 
