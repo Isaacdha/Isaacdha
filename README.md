@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=isaacdha.isaacdha)
 
-<p align=justify> A fresh graduate in statistics with broad range of technical skills and experience, including experience with Python, R, SPSS, SQL, EViews, Tableau, Power BI, Google Data Studio, and Microsoft Excel. Individual with excellent time management, strong determination, curious mindset, and always eager to learn new things.  </>
+<p align=justify> A graduate in statistics with broad range of technical skills and experience, including experience with Python, R, SPSS, SQL, EViews, Tableau, Power BI, Google Data Studio, and Microsoft Excel. Individual with excellent time management, strong determination, curious mindset, and always eager to learn new things.  </>
 
 <p align=justify> </>
 
